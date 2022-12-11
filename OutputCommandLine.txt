@@ -1,0 +1,5 @@
+Location which has the most number of purchases been made : 103595 MUMBAI
+Amount spent by males :
+1181644838.119980
+Amount spent by females :
+466810951.429987
